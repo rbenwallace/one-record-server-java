@@ -88,3 +88,6 @@ By default, the security layer supporting mutual TLS is disabled in this sandbox
 You can find further information about ONE Record specifications on the [main Github repository](https://github.com/IATA-Cargo/ONE-Record), 
 on the [ONE Record Developer Poral](http://www.onerecordcargo.org/index.html) and on the [IATA dedicated webpage](https://www.iata.org/en/programs/cargo/e/one-record/).
 
+# build python test
+run python3 -py_file_name in the same directory where the python files live
+
